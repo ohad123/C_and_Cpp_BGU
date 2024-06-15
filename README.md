@@ -1,2 +1,2 @@
-# C-C-_BGU
+# C_Cpp_BGU
 projects in C/C++ 
