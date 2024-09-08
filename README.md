@@ -19,3 +19,7 @@ Welcome to my repository of C and C++ projects from Ben-Gurion University. This 
 4. **[Memory Allocation and Linked Lists](https://github.com/ohad123/C_and_Cpp_BGU/tree/main/Memory%20allocation%20and%20linked%20lists)**
    - **Description:** Implements a linked list with operations to add, delete, search, and print nodes. Emphasizes proper memory management practices.
    - **Key Concepts:** Dynamic memory allocation, linked list operations, memory management.
+
+5. **[Checkers Game](https://github.com/ohad123/C_and_Cpp_BGU/tree/main/Checkers%20game)**
+   - **Description:** Implements a checkers game with functionalities for moving pawns, capturing opponent’s pawns, and checking game status.
+   - **Key Concepts:** Game logic, board management, user interaction.
