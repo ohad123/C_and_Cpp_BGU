@@ -16,8 +16,7 @@ This will create an executable file named checkers.
 
 Run the Game: After compiling, you can run the game by executing the following command in your terminal:
 
-bash
-Copy code
+```bash
 ./checkers
 
 ### Game Rules
