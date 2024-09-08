@@ -46,8 +46,6 @@ To run the compiled executable, use the following command:
 
 ## Classes and Methods
 
-### VectorExample
-
 - **Data Members:**
   - `int value`: Represents the integer value stored in the object.
 
