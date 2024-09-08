@@ -40,7 +40,7 @@ To run the compiled executable, use the following command:
 - **Complete Transaction:** If sufficient money is inserted, the product will be dispensed. Otherwise, you will be prompted to insert more coins or cancel the transaction.
 - **View Inventory:** The system displays the remaining inventory and allows for restocking.
 
-## Classes and Methods
+## Data Members and Methods
 
 - **Data Members:**
   - `std::map<std::string, int> inventory`: Stores the products and their quantities.
