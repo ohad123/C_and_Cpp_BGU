@@ -12,7 +12,7 @@ This repository contains the source code for a simple implementation of the Chec
 
 ```bash
 gcc -o checkers Checkers\ game.c && exit
-This will create an executable file named checkers. 
+This will create an executable file named checkers.
 
 Run the Game: After compiling, you can run the game by executing the following command in your terminal:
 
@@ -36,4 +36,3 @@ Enter the row and column number for the pawn you want to move.
 Enter the row and column number for the destination you want to move the pawn to.
 Conclusion
 This project is a simple demonstration of how to implement the classic Draughts game using C. It includes core game mechanics, input validation, and turn-based logic for two-player gameplay.
-
