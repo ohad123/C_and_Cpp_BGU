@@ -11,7 +11,7 @@ This repository contains the source code for a simple implementation of the Chec
 **Compile the Code:** To compile the `Checkers game.c` file, use a C compiler like `gcc`. Open your terminal or command prompt and run the following command:
 
 ```bash
-gcc -o checkers Checkers\ game.c && exit
+gcc -o checkers Checkers\ game.c
 This will create an executable file named checkers.
 
 Run the Game: After compiling, you can run the game by executing the following command in your terminal:
